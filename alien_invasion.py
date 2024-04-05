@@ -16,7 +16,7 @@ def run_game () :
                 sys.exit ()
         
         # make the most recent drawn screen visible 
-        pygame.display().flip () 
+        pygame.display.flip()
 
 run_game ()
 
