@@ -4,7 +4,7 @@ import pygame
 
 def run_game () :
     # initialize game and create a screen object 
-    pygame.init() 
+    pygame.init()  
     screen = pygame.display.set_mode((1200,800))
     pygame.display.set_caption("Alien Invasion")
 
